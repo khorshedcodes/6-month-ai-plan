@@ -5,14 +5,14 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
 - **Current Week:** Week 1
-- **Current Day:** Day 2 (Conditions, loops, logical operators)
-- **Days Completed:** 1 / 168
+- **Current Day:** Day 3 (Functions, parameters, return values, scope)
+- **Days Completed:** 2 / 168
 
 ---
 
 ## Week 1 Progress Checklist
 - [x] **Day 1:** Python setup, variables, data types, input/output + English comparison (Python vs JS)
-- [ ] **Day 2:** Conditions, loops, logical operators + First Standup Update
+- [x] **Day 2:** Conditions, loops, logical operators + First Standup Update
 - [ ] **Day 3:** Functions, parameters, return values, scope + Google-style Docstrings
 - [ ] **Day 4:** Lists, tuples, dictionaries, sets + Architecture choice explanation
 - [ ] **Day 5:** Strings, list comprehensions, file handling + Bug Report practice

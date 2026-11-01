@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 1 (Python Core Basics)
-- **Last Completed Day:** **Day 1 Completed** (Variables, types, input/output, converter built, 3/3 quiz, JS vs Python English).
-- **Next Up:** **Day 2 (Conditions, loops, logical operators, Number Guessing Game + First Daily Standup in English)**.
+- **Last Completed Day:** **Day 2 Completed** (Conditions, loops, `for...else`, number guessing game, daily quiz, daily standup).
+- **Next Up:** **Day 3 (Functions, parameters, return values, variable scope, Password Strength Validator + Google-style Docstrings)**.
 
 ---
 
