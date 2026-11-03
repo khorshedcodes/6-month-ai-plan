@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 1 (Python Core Basics)
-- **Last Completed Day:** **Day 3 Completed** (Functions, parameters, early return, docstrings, scope).
-- **Next Up:** **Day 4 (Lists, tuples, dictionaries, sets + In-Memory Contact Book CRUD + Architecture Explanation in English)**.
+- **Last Completed Day:** **Day 4 Completed** (Lists, tuples, dicts, sets, CRUD Contact Book, Big-O trade-offs).
+- **Next Up:** **Day 5 (Strings, list comprehensions, file handling with `open()` + Bug Report in English)**.
 
 ---
 
