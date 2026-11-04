@@ -1,0 +1,11 @@
+[INFO] 2026-11-04 10:00:01 - Server started on port 8000
+[INFO] 2026-11-04 10:00:05 - Database connection established
+[WARN] 2026-11-04 10:02:14 - High memory usage detected: 78%
+[INFO] 2026-11-04 10:05:22 - User alex99 logged in successfully
+[ERROR] 2026-11-04 10:07:45 - Failed to fetch exchange rates: ConnectionTimeout
+[WARN] 2026-11-04 10:12:00 - Response latency spike: 1250ms
+[INFO] 2026-11-04 10:15:30 - Cache refreshed
+[ERROR] 2026-11-04 10:18:19 - Database query failed: Table 'metrics' locked
+[INFO] 2026-11-04 10:20:00 - Periodic backup completed
+[ERROR] 2026-11-04 10:25:11 - Payment gateway returned 502 Bad Gateway
+

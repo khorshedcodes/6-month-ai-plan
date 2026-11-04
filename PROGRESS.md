@@ -5,8 +5,8 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
 - **Current Week:** Week 1
-- **Current Day:** Day 5 (Strings, list comprehensions, file handling)
-- **Days Completed:** 4 / 168
+- **Current Day:** Day 6 (Exceptions, modules, virtual environments)
+- **Days Completed:** 5 / 168
 
 ---
 
@@ -15,7 +15,8 @@
 - [x] **Day 2:** Conditions, loops, logical operators + First Standup Update
 - [x] **Day 3:** Functions, parameters, return values, scope + Google-style Docstrings
 - [x] **Day 4:** Lists, tuples, dictionaries, sets + Architecture choice explanation
-- [ ] **Day 5:** Strings, list comprehensions, file handling + Bug Report practice
+- [x] **Day 5:** Strings, list comprehensions, file handling + Bug Report practice
+- [ ] **Day 6:** Exceptions, modules, `venv` + `README.md` setup instructions
 - [ ] **Day 5:** Strings, list comprehensions, file handling + Bug Report practice
 - [ ] **Day 6:** Exceptions, modules, `venv` + `README.md` setup instructions
 - [ ] **Day 7:** **Week 1 Closed-Book Test** + CLI Expense Tracker + Mock Interview Q1
