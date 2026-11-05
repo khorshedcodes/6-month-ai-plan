@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 1 (Python Core Basics)
-- **Last Completed Day:** **Day 5 Completed** (Strings, list comprehensions, `with open()`, log analyzer, bug report).
-- **Next Up:** **Day 6 (Exceptions, custom errors, modules, `venv`, `requirements.txt` + `README.md` setup guide in English)**.
+- **Last Completed Day:** **Day 6 Completed** (Exceptions, custom errors, modules, `venv`, `requirements.txt`, setup guide).
+- **Next Up:** **Day 7 (WEEK 1 CLOSED-BOOK EXAM & MINI-PROJECT: CLI Expense Tracker + Mock Interview Q1)**.
 
 ---
 
