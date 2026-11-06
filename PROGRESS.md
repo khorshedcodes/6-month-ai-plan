@@ -4,9 +4,9 @@
 - **Student Profile & Shift Rules:** See [ABOUT_ME.md](file:///f:/6%20month%20plan/ABOUT_ME.md)
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
-- **Current Week:** Week 1
-- **Current Day:** Day 7 (WEEK 1 CLOSED-BOOK TEST & MINI-PROJECT)
-- **Days Completed:** 6 / 168
+- **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
+- **Current Day:** Day 8 (Classes, `__init__`, `self`, methods, `__str__`)
+- **Days Completed:** 7 / 168
 
 ---
 
@@ -17,17 +17,14 @@
 - [x] **Day 4:** Lists, tuples, dictionaries, sets + Architecture choice explanation
 - [x] **Day 5:** Strings, list comprehensions, file handling + Bug Report practice
 - [x] **Day 6:** Exceptions, modules, `venv` + `README.md` setup instructions
-- [ ] **Day 7:** **Week 1 Closed-Book Test** + CLI Expense Tracker + Mock Interview Q1
-- [ ] **Day 5:** Strings, list comprehensions, file handling + Bug Report practice
-- [ ] **Day 6:** Exceptions, modules, `venv` + `README.md` setup instructions
-- [ ] **Day 7:** **Week 1 Closed-Book Test** + CLI Expense Tracker + Mock Interview Q1
+- [x] **Day 7:** **Week 1 Closed-Book Test** + CLI Expense Tracker + Mock Interview Q1
 
 ---
 
 ## Weekly Test Scores & Notes
 | Week | Topic | Coding Test | Closed-Book Project | Mock Interview (English) | Teacher Notes / Review Topics |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Week 1** | Python Basics | Pending | Expense Tracker | Pending | - |
+| **Week 1** | Python Basics | **Passed (85%)** | **Passed (CLI Expense Tracker)** | **Passed (Architecture Walkthrough)** | Solid grasp of data structures; reviewed `for...else` & `try...else` nuances |
 | **Week 2** | OOP, JSON, APIs, Pytest | Pending | Issue/Habit Tracker | Pending | - |
 | **Week 3** | Advanced Python & CLI | Pending | CLI News Aggregator | Pending | - |
 | **Week 4** | NumPy & Pandas | Pending | Unseen CSV EDA | Pending | - |

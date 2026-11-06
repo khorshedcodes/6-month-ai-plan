@@ -32,9 +32,9 @@
 ## 3. Current Progress Snapshot
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
-- **Current Week:** Week 1 (Python Core Basics)
-- **Last Completed Day:** **Day 6 Completed** (Exceptions, custom errors, modules, `venv`, `requirements.txt`, setup guide).
-- **Next Up:** **Day 7 (WEEK 1 CLOSED-BOOK EXAM & MINI-PROJECT: CLI Expense Tracker + Mock Interview Q1)**.
+- **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
+- **Last Completed Day:** **Day 7 Completed — Week 1 Officially Passed!** (CLI Expense Tracker built without AI, 85% Exam score, Mock Interview Q1 cleared).
+- **Next Up:** **Day 8 (Classes, `__init__`, `self`, instance vs class attributes, methods, `__str__` + Refactor Expense Tracker to OOP + PR Description in English)**.
 
 ---
 
