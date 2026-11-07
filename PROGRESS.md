@@ -5,8 +5,19 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
 - **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Current Day:** Day 8 (Classes, `__init__`, `self`, methods, `__str__`)
-- **Days Completed:** 7 / 168
+- **Current Day:** Day 9 (Inheritance, composition, dataclasses, type hints)
+- **Days Completed:** 8 / 168
+
+---
+
+## Week 2 Progress Checklist
+- [x] **Day 8:** Classes, `__init__`, `self`, methods, `__str__` + Refactor to OOP + PR Description
+- [ ] **Day 9:** Inheritance, composition, `@dataclass`, type hints + Task Model
+- [ ] **Day 10:** Working with `json` module, `pathlib`, `datetime` + Serialization
+- [ ] **Day 11:** Iterators, generators (`yield`), `lambda`, custom sorting
+- [ ] **Day 12:** Unit testing with `pytest` (`assert`, fixtures)
+- [ ] **Day 13:** HTTP requests (`requests` / `httpx`), status codes, headers
+- [ ] **Day 14:** **Week 2 Closed-Book Test & Mini-Project** (CLI Issue Tracker + Pytest)
 
 ---
 

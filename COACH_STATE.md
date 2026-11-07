@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Last Completed Day:** **Day 7 Completed — Week 1 Officially Passed!** (CLI Expense Tracker built without AI, 85% Exam score, Mock Interview Q1 cleared).
-- **Next Up:** **Day 8 (Classes, `__init__`, `self`, instance vs class attributes, methods, `__str__` + Refactor Expense Tracker to OOP + PR Description in English)**.
+- **Last Completed Day:** **Day 8 Completed** (OOP, Classes, `__init__`, `self`, `__str__`, ExpenseManager, PR description).
+- **Next Up:** **Day 9 (Inheritance, composition, `@dataclass`, type hints (`list[str]`, `Optional`) + Task Management System + Technical Comparison in English)**.
 
 ---
 
