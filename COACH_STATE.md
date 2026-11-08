@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Last Completed Day:** **Day 8 Completed** (OOP, Classes, `__init__`, `self`, `__str__`, ExpenseManager, PR description).
-- **Next Up:** **Day 9 (Inheritance, composition, `@dataclass`, type hints (`list[str]`, `Optional`) + Task Management System + Technical Comparison in English)**.
+- **Last Completed Day:** **Day 9 Completed** (Inheritance, composition, `@dataclass`, type hints, Task Management model).
+- **Next Up:** **Day 10 (JSON persistence (`json.dump/load`), `pathlib`, `datetime` + Serialization & Standup in English)**.
 
 ---
 
