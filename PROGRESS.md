@@ -5,8 +5,8 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
 - **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Current Day:** Day 12 (Unit testing with `pytest` (`assert`, fixtures))
-- **Days Completed:** 11 / 168
+- **Current Day:** Day 13 (HTTP requests (`requests` / `httpx`), status codes, headers, .env)
+- **Days Completed:** 12 / 168
 
 ---
 
@@ -15,7 +15,8 @@
 - [x] **Day 9:** Inheritance, composition, `@dataclass`, type hints + Task Model
 - [x] **Day 10:** Working with `json` module, `pathlib`, `datetime` + Serialization
 - [x] **Day 11:** Iterators, generators (`yield`), `lambda`, custom sorting
-- [ ] **Day 12:** Unit testing with `pytest` (`assert`, fixtures)
+- [x] **Day 12:** Unit testing with `pytest` (`assert`, fixtures)
+- [ ] **Day 13:** HTTP requests (`requests` / `httpx`), status codes, headers
 - [ ] **Day 11:** Iterators, generators (`yield`), `lambda`, custom sorting
 - [ ] **Day 12:** Unit testing with `pytest` (`assert`, fixtures)
 - [ ] **Day 13:** HTTP requests (`requests` / `httpx`), status codes, headers
