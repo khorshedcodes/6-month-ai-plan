@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Last Completed Day:** **Day 10 Completed** (JSON persistence, `json.dump/load`, `pathlib.Path`, `datetime`, serialization standup).
-- **Next Up:** **Day 11 (Iterators, generators (`yield`), memory efficiency, `lambda`, custom sorting with `key=`)**.
+- **Last Completed Day:** **Day 11 Completed** (Iterators, generators `yield`, memory optimization, lambdas, custom sorting, streaming explanation).
+- **Next Up:** **Day 12 (Automated Unit Testing with `pytest`, `assert`, testing edge cases & test specs in English)**.
 
 ---
 

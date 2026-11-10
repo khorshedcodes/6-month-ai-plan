@@ -1,0 +1,50 @@
+[ERROR] Code:500 | Latency:1629ms 
+[INFO] Latency:1136ms 
+[WARN] Latency:789ms 
+[INFO] Latency:514ms 
+[ERROR] Code:502 | Latency:905ms 
+[WARN] Latency:467ms 
+[ERROR] Code:502 | Latency:1564ms 
+[ERROR] Code:404 | Latency:964ms 
+[WARN] Latency:1168ms 
+[WARN] Latency:322ms 
+[ERROR] Code:403 | Latency:1435ms 
+[INFO] Latency:742ms 
+[WARN] Latency:1063ms 
+[WARN] Latency:937ms 
+[ERROR] Code:403 | Latency:1126ms 
+[ERROR] Code:500 | Latency:197ms 
+[INFO] Latency:1442ms 
+[INFO] Latency:308ms 
+[ERROR] Code:500 | Latency:144ms 
+[ERROR] Code:404 | Latency:201ms 
+[WARN] Latency:52ms 
+[INFO] Latency:917ms 
+[ERROR] Code:500 | Latency:469ms 
+[ERROR] Code:502 | Latency:1167ms 
+[WARN] Latency:856ms 
+[WARN] Latency:971ms 
+[WARN] Latency:1573ms 
+[WARN] Latency:367ms 
+[ERROR] Code:502 | Latency:1083ms 
+[INFO] Latency:1612ms 
+[INFO] Latency:888ms 
+[ERROR] Code:403 | Latency:249ms 
+[INFO] Latency:1211ms 
+[INFO] Latency:965ms 
+[INFO] Latency:223ms 
+[INFO] Latency:502ms 
+[INFO] Latency:405ms 
+[ERROR] Code:403 | Latency:1740ms 
+[WARN] Latency:1490ms 
+[INFO] Latency:574ms 
+[ERROR] Code:403 | Latency:1761ms 
+[WARN] Latency:514ms 
+[ERROR] Code:403 | Latency:1549ms 
+[ERROR] Code:502 | Latency:1129ms 
+[WARN] Latency:787ms 
+[WARN] Latency:1012ms 
+[INFO] Latency:468ms 
+[WARN] Latency:1435ms 
+[INFO] Latency:1112ms 
+[INFO] Latency:1956ms 
