@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Last Completed Day:** **Day 12 Completed** (Automated unit testing with `pytest`, assertions, `pytest.raises`, fixtures, test plan in English).
-- **Next Up:** **Day 13 (Consuming REST APIs with `requests`/`httpx`, HTTP status codes, headers, query params + API documentation in English)**.
+- **Last Completed Day:** **Day 13 Completed** (HTTP requests, status codes, timeouts, network exception handling, API documentation in English).
+- **Next Up:** **Day 14 (WEEK 2 CLOSED-BOOK EXAM & MINI-PROJECT: CLI Issue & Habit Tracker with JSON, API Integration + Pytest Test Suite + Mock Interview Q2)**.
 
 ---
 
