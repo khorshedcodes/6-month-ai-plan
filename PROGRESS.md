@@ -4,9 +4,9 @@
 - **Student Profile & Shift Rules:** See [ABOUT_ME.md](file:///f:/6%20month%20plan/ABOUT_ME.md)
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
-- **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Current Day:** Day 14 (WEEK 2 CLOSED-BOOK TEST & MINI-PROJECT)
-- **Days Completed:** 13 / 168
+- **Current Week:** Week 3 (Advanced Python & CLI Engineering)
+- **Current Day:** Day 15 (Decorators, closures, context managers (`__enter__`, `__exit__`))
+- **Days Completed:** 14 / 168
 
 ---
 
@@ -17,11 +17,7 @@
 - [x] **Day 11:** Iterators, generators (`yield`), `lambda`, custom sorting
 - [x] **Day 12:** Unit testing with `pytest` (`assert`, fixtures)
 - [x] **Day 13:** HTTP requests (`requests` / `httpx`), status codes, headers
-- [ ] **Day 14:** **Week 2 Closed-Book Test & Mini-Project** (CLI Issue Tracker + Pytest)
-- [ ] **Day 11:** Iterators, generators (`yield`), `lambda`, custom sorting
-- [ ] **Day 12:** Unit testing with `pytest` (`assert`, fixtures)
-- [ ] **Day 13:** HTTP requests (`requests` / `httpx`), status codes, headers
-- [ ] **Day 14:** **Week 2 Closed-Book Test & Mini-Project** (CLI Issue Tracker + Pytest)
+- [x] **Day 14:** **Week 2 Closed-Book Test & Mini-Project** (CLI Issue Tracker + Pytest)
 
 ---
 
@@ -40,7 +36,7 @@
 | Week | Topic | Coding Test | Closed-Book Project | Mock Interview (English) | Teacher Notes / Review Topics |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Week 1** | Python Basics | **Passed (85%)** | **Passed (CLI Expense Tracker)** | **Passed (Architecture Walkthrough)** | Solid grasp of data structures; reviewed `for...else` & `try...else` nuances |
-| **Week 2** | OOP, JSON, APIs, Pytest | Pending | Issue/Habit Tracker | Pending | - |
+| **Week 2** | OOP, JSON, APIs, Pytest | **Passed (80%)** | **Passed (CLI Issue Tracker + Pytest)** | **Passed (Debugging Story & RCA)** | Mastered `@dataclass`, `pytest`, API requests; reviewed generator consumption and `asdict()` comprehension |
 | **Week 3** | Advanced Python & CLI | Pending | CLI News Aggregator | Pending | - |
 | **Week 4** | NumPy & Pandas | Pending | Unseen CSV EDA | Pending | - |
 | **Week 5** | Math for ML | Pending | Linear Reg from Scratch | Pending | - |

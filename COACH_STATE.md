@@ -32,9 +32,9 @@
 ## 3. Current Progress Snapshot
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
-- **Current Week:** Week 2 (Intermediate Python, OOP & JSON)
-- **Last Completed Day:** **Day 13 Completed** (HTTP requests, status codes, timeouts, network exception handling, API documentation in English).
-- **Next Up:** **Day 14 (WEEK 2 CLOSED-BOOK EXAM & MINI-PROJECT: CLI Issue & Habit Tracker with JSON, API Integration + Pytest Test Suite + Mock Interview Q2)**.
+- **Current Week:** Week 3 (Advanced Python & CLI Engineering)
+- **Last Completed Day:** **Day 14 Completed — Week 2 Officially Passed!** (CLI Issue Tracker + 4/4 passing Pytest suite built without AI, 80% Exam score, Mock Interview Q2 cleared).
+- **Next Up:** **Day 15 (Decorators, closures, `@timer` and `@retry` patterns, context managers (`__enter__`, `__exit__`))**.
 
 ---
 

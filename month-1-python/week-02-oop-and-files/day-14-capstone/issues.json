@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Issue",
+    "category": "Undefined",
+    "is_closed": true,
+    "created_at": "2026-11-12T18:43:07.562847"
+  },
+  {
+    "id": 2,
+    "title": "Sample Issue 2",
+    "category": "Undefined",
+    "is_closed": false,
+    "created_at": "2026-11-12T18:43:07.562847"
+  }
+]
