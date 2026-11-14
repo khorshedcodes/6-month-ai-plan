@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Last Completed Day:** **Day 14 Completed — Week 2 Officially Passed!** (CLI Issue Tracker + 4/4 passing Pytest suite built without AI, 80% Exam score, Mock Interview Q2 cleared).
-- **Next Up:** **Day 15 (Decorators, closures, `@timer` and `@retry` patterns, context managers (`__enter__`, `__exit__`))**.
+- **Last Completed Day:** **Day 15 Completed** (Decorators, closures, decorator factories, `@timer`, `@retry`, DRY English explanation).
+- **Next Up:** **Day 16 (Async Python basics (`async`, `await`, `asyncio.gather`), Event Loop vs JS Promises, concurrent API fetching)**.
 
 ---
 
