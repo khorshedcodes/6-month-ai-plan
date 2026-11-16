@@ -33,8 +33,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Last Completed Day:** **Day 16 Completed** (Asynchronous Python, `async/await`, `asyncio.gather`, Event Loop vs JS Promises comparison).
-- **Next Up:** **Day 17 (Production CLI arguments with `argparse`, structured logging (`logging` module vs `print`), log levels & formatting)**.
+- **Last Completed Day:** **Day 17 Completed** (Production CLI tools with `argparse`, structured logging vs print, log levels, formatting).
+- **Next Up:** **Day 18 (Python packaging, clean `src/` layout, relative vs absolute imports, linting & code formatting with `ruff`)**.
 
 ---
 
