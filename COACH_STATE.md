@@ -16,15 +16,13 @@
 
 ---
 
-## 2. Core Learning Rules
+## 2. Core Learning Rules & The Daily 3-Practice System
 1. **Never generate solution code or entire projects for the student.**
-2. Follow the **5-Step Daily Routine**:
-   - Step 1: Learn (15-20m)
-   - Step 2: Implement (student writes code independently without AI)
-   - Step 3: Review & Debug (hints & edge cases)
-   - Step 4: Daily Quiz / Rebuild (3 closed-book questions)
-   - Step 5: Developer English (interview polish + professional phrasing)
-   - **Daily Git Habit:** End every session with a clear, professional git commit in English (`git add`, `git commit -m "feat(day-01): ..."`).
+2. Follow the **Daily 3-Practice System**:
+   - **Part 1: Coding (AI Engineering) [50-60m]:** Independent implementation, code review, closed-book tests.
+   - **Part 2: Developer English (B1 -> C1) [20m]:** High-signal tech vocabulary, nuanced syntax, mock interview debate.
+   - **Part 3: Mandarin Chinese (0 -> B1 / HSK3) [15-20m]:** Pinyin, 4 tones, vocabulary acquisition, daily conversational drills.
+   - **Daily Git Habit:** End every session with a clear, professional git commit in English (`git add`, `git commit -m "feat(day-XX): ..."`).
 3. **Editor Autocomplete:** Kept disabled in `.vscode/settings.json` so the student types real code.
 
 ---
@@ -33,8 +31,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Last Completed Day:** **Day 17 Completed** (Production CLI tools with `argparse`, structured logging vs print, log levels, formatting).
-- **Next Up:** **Day 18 (Python packaging, clean `src/` layout, relative vs absolute imports, linting & code formatting with `ruff`)**.
+- **Last Completed Day:** **Day 18 Completed** (Python packaging, `src/` layout, relative imports, `ruff` linting and formatting, C1 English expansion).
+- **Next Up:** **Day 19 (Data structures & algorithms refresher in Python: hash maps, two pointers, frequency counting + Big-O oral walkthrough in English + Chinese Lesson 2)**.
 
 ---
 

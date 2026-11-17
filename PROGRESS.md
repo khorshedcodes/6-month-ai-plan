@@ -5,8 +5,8 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 1 — Python Foundations
 - **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Current Day:** Day 18 (Packaging, project layout (`src/`), linting (`ruff`), formatting)
-- **Days Completed:** 17 / 168
+- **Current Day:** Day 19 (Data structures & algorithms refresher in Python: hash maps, two pointers)
+- **Days Completed:** 18 / 168
 
 ---
 
@@ -14,8 +14,7 @@
 - [x] **Day 15:** Decorators, closures, context managers (`__enter__`, `__exit__`)
 - [x] **Day 16:** Async Python basics (`async`, `await`, `asyncio.gather`) vs synchronous execution
 - [x] **Day 17:** CLI arguments (`argparse`), logging (`logging` module vs `print`)
-- [ ] **Day 18:** Packaging, project layout (`src/`), linting (`ruff`), formatting
-- [ ] **Day 18:** Packaging, project layout (`src/`), linting (`ruff`), formatting
+- [x] **Day 18:** Packaging, project layout (`src/`), linting (`ruff`), formatting
 - [ ] **Day 19:** Data structures & algorithms refresher in Python (hash maps, two pointers)
 - [ ] **Day 20:** Review & integration day: combining CLI + API + JSON + Logging + Tests
 - [ ] **Day 21:** **Week 3 Closed-Book Test (End of Python Foundations Module)**
