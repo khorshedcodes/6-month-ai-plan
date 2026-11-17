@@ -1,0 +1,13 @@
+[project]
+name = "logpulse"
+version = "0.1.0"
+description = "A lightweight CLI log analysis package"
+dependencies = []
+
+[tool.ruff]
+line-length = 88
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]  # pycodestyle, pyflakes, isort import sorting
+ignore = []
