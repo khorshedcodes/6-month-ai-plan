@@ -31,8 +31,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Last Completed Day:** **Day 18 Completed** (Python packaging, `src/` layout, relative imports, `ruff` linting and formatting, C1 English expansion).
-- **Next Up:** **Day 19 (Data structures & algorithms refresher in Python: hash maps, two pointers, frequency counting + Big-O oral walkthrough in English + Chinese Lesson 2)**.
+- **Last Completed Day:** **Day 19 Completed** (Practical algorithms, hash map Two Sum, two-pointer palindrome, C1 complexity walkthrough, Chinese numbers 1-10 & time).
+- **Next Up:** **Day 20 (Comprehensive Integration: Building the CLI News & Article Aggregator with CLI + Async API + JSON + Logging + Pytest)**.
 
 ---
 
