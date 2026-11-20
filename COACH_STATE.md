@@ -31,8 +31,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 1 — Python Foundations
 - **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Last Completed Day:** **Day 19 Completed** (Practical algorithms, hash map Two Sum, two-pointer palindrome, C1 complexity walkthrough, Chinese numbers 1-10 & time).
-- **Next Up:** **Day 20 (Comprehensive Integration: Building the CLI News & Article Aggregator with CLI + Async API + JSON + Logging + Pytest)**.
+- **Last Completed Day:** **Day 20 Completed** (System integration, HackerNews aggregator CLI, offline fallback caching, passing Pytest suite, C1 PR defense).
+- **Next Up:** **Day 21 (WEEK 3 CLOSED-BOOK EXAM & MONTH 1 PYTHON MASTERY EXAM + Mock Interview Q3)**.
 
 ---
 
