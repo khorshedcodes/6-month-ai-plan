@@ -29,10 +29,10 @@
 
 ## 3. Current Progress Snapshot
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
-- **Current Phase:** Phase 1 — Python Foundations
-- **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Last Completed Day:** **Day 20 Completed** (System integration, HackerNews aggregator CLI, offline fallback caching, passing Pytest suite, C1 PR defense).
-- **Next Up:** **Day 21 (WEEK 3 CLOSED-BOOK EXAM & MONTH 1 PYTHON MASTERY EXAM + Mock Interview Q3)**.
+- **Current Phase:** Phase 2 — Data Manipulation & Math for Machine Learning
+- **Current Week:** Week 4 (NumPy & Pandas Foundations)
+- **Last Completed Day:** **Day 21 Completed — Month 1 Python Foundations Officially Passed!** (85% Exam score, C1 Interview cleared, Chinese Lesson 4 verified).
+- **Next Up:** **Day 22 (NumPy n-dimensional arrays, shapes, dtypes, broadcasting, vectorization vs loops + Chinese Lesson 5)**.
 
 ---
 

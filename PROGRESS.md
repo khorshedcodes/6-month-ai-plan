@@ -3,10 +3,10 @@
 ## Current Position
 - **Student Profile & Shift Rules:** See [ABOUT_ME.md](file:///f:/6%20month%20plan/ABOUT_ME.md)
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
-- **Current Phase:** Month 1 — Python Foundations
-- **Current Week:** Week 3 (Advanced Python & CLI Engineering)
-- **Current Day:** Day 21 (WEEK 3 CLOSED-BOOK TEST: MONTH 1 PYTHON MASTERY EXAM)
-- **Days Completed:** 20 / 168
+- **Current Phase:** Month 2 — Data Manipulation & Math for Machine Learning
+- **Current Week:** Week 4 (Data Manipulation with NumPy & Pandas)
+- **Current Day:** Day 22 (NumPy arrays, shapes, dtype, indexing, broadcasting, vectorization)
+- **Days Completed:** 21 / 168
 
 ---
 
@@ -17,7 +17,16 @@
 - [x] **Day 18:** Packaging, project layout (`src/`), linting (`ruff`), formatting
 - [x] **Day 19:** Data structures & algorithms refresher in Python (hash maps, two pointers)
 - [x] **Day 20:** Review & integration day: combining CLI + API + JSON + Logging + Tests
-- [ ] **Day 21:** **Week 3 Closed-Book Test (End of Python Foundations Module)**
+- [x] **Day 21:** **Week 3 Closed-Book Test (MONTH 1 PYTHON MASTERY EXAM)**
+
+---
+
+## Weekly Test Scores & Notes
+| Week | Topic | Coding Test | Closed-Book Project | Mock Interview (English) | Teacher Notes / Review Topics |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Week 1** | Python Basics | **Passed (85%)** | **Passed (CLI Expense Tracker)** | **Passed (Architecture Walkthrough)** | Solid grasp of data structures; reviewed `for...else` & `try...else` nuances |
+| **Week 2** | OOP, JSON, APIs, Pytest | **Passed (80%)** | **Passed (CLI Issue Tracker + Pytest)** | **Passed (Debugging Story & RCA)** | Mastered `@dataclass`, `pytest`, API requests; reviewed generator consumption |
+| **Week 3** | Advanced CLI & Packaging | **Passed (85%)** | **Passed (HackerNews CLI Aggregator)** | **Passed (Production Readiness Pipeline)** | Strong command of decorators, async, and logging; clarified dict O(1) hash jumps |
 
 ---
 
