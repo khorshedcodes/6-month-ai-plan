@@ -31,8 +31,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 2 — Data Manipulation & Math for Machine Learning
 - **Current Week:** Week 4 (NumPy & Pandas Foundations)
-- **Last Completed Day:** **Day 21 Completed — Month 1 Python Foundations Officially Passed!** (85% Exam score, C1 Interview cleared, Chinese Lesson 4 verified).
-- **Next Up:** **Day 22 (NumPy n-dimensional arrays, shapes, dtypes, broadcasting, vectorization vs loops + Chinese Lesson 5)**.
+- **Last Completed Day:** **Day 22 Completed** (NumPy contiguous memory, vectorization 50x benchmark, broadcasting, axis intuition, Chinese days of week).
+- **Next Up:** **Day 23 (Pandas Series & DataFrames, inspecting tabular datasets, `.head()`, `.info()`, `loc` vs `iloc` + Chinese Lesson 6)**.
 
 ---
 

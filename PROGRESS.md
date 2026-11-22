@@ -5,12 +5,19 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 2 — Data Manipulation & Math for Machine Learning
 - **Current Week:** Week 4 (Data Manipulation with NumPy & Pandas)
-- **Current Day:** Day 22 (NumPy arrays, shapes, dtype, indexing, broadcasting, vectorization)
-- **Days Completed:** 21 / 168
+- **Current Day:** Day 23 (Pandas Series & DataFrames, reading CSVs, head, info, loc vs iloc)
+- **Days Completed:** 22 / 168
 
 ---
 
-## Week 3 Progress Checklist
+## Week 4 Progress Checklist
+- [x] **Day 22:** NumPy arrays, shapes, dtype, indexing, broadcasting, vectorization
+- [ ] **Day 23:** Pandas Series & DataFrame, reading CSVs, `.head()`, `.info()`, `loc` vs `iloc`
+- [ ] **Day 24:** Cleaning data: missing values, duplicates, type conversions
+- [ ] **Day 25:** Filtering, sorting, `groupby`, aggregations (`.agg()`), merging
+- [ ] **Day 26:** Matplotlib & basic visualization (histograms, scatter, bar)
+- [ ] **Day 27:** Exploratory Data Analysis (EDA) end-to-end on real dataset
+- [ ] **Day 28:** **Week 4 Closed-Book Test & EDA Challenge**
 - [x] **Day 15:** Decorators, closures, context managers (`__enter__`, `__exit__`)
 - [x] **Day 16:** Async Python basics (`async`, `await`, `asyncio.gather`) vs synchronous execution
 - [x] **Day 17:** CLI arguments (`argparse`), logging (`logging` module vs `print`)
