@@ -1,0 +1,11 @@
+id,name,department,salary,years_experience,remote
+101,Alice Johnson,Engineering,95000,5,True
+102,Bob Smith,Marketing,62000,3,False
+103,Charlie Davis,Engineering,120000,8,True
+104,Diana Prince,Product,105000,6,True
+105,Evan Wright,Sales,58000,2,False
+106,Fiona Gallagher,Engineering,88000,4,False
+107,George Clark,Product,92000,5,True
+108,Hannah Abbott,Marketing,67000,4,True
+109,Ian Malcolm,Engineering,135000,10,True
+110,Julia Roberts,Sales,72000,5,False

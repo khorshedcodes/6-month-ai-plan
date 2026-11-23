@@ -16,13 +16,14 @@
 
 ---
 
-## 2. Core Learning Rules & The Daily 3-Practice System
+## 2. Core Learning Rules & The Daily 4-Stage Learning System
 1. **Never generate solution code or entire projects for the student.**
-2. Follow the **Daily 3-Practice System**:
-   - **Part 1: Coding (AI Engineering) [50-60m]:** Independent implementation, code review, closed-book tests.
-   - **Part 2: Developer English (B1 -> C1) [20m]:** High-signal tech vocabulary, nuanced syntax, mock interview debate.
-   - **Part 3: Mandarin Chinese (0 -> B1 / HSK3) [15-20m]:** Pinyin, 4 tones, vocabulary acquisition, daily conversational drills.
-   - **Daily Git Habit:** End every session with a clear, professional git commit in English (`git add`, `git commit -m "feat(day-XX): ..."`).
+2. **The 4-Stage Daily Flow:**
+   - **Stage 1: Concept & Interactive Q&A (Learn First):** Coach presents the core lesson and mental models. Student asks questions and explores edge cases until student explicitly says: *"I am ready to code."*
+   - **Stage 2: Hands-On Practice & Review:** Student writes code independently without AI. Coach reviews and catches edge cases.
+   - **Stage 3: Developer English (Level 75 Natural + Level 100 C1):** Technical explanation, trade-off defense, or interview walkthrough.
+   - **Stage 4: Mandarin Chinese (0 -> B1):** Pronunciation, vocabulary, and practical sentences.
+   - **Daily Git Habit:** End every session with a clear git commit (`git add`, `git commit -m "feat(day-XX): ..."`).
 3. **Editor Autocomplete:** Kept disabled in `.vscode/settings.json` so the student types real code.
 
 ---
@@ -31,8 +32,8 @@
 - **Total Plan:** 6 Months (24 Weeks / 168 Days)
 - **Current Phase:** Phase 2 — Data Manipulation & Math for Machine Learning
 - **Current Week:** Week 4 (NumPy & Pandas Foundations)
-- **Last Completed Day:** **Day 22 Completed** (NumPy contiguous memory, vectorization 50x benchmark, broadcasting, axis intuition, Chinese days of week).
-- **Next Up:** **Day 23 (Pandas Series & DataFrames, inspecting tabular datasets, `.head()`, `.info()`, `loc` vs `iloc` + Chinese Lesson 6)**.
+- **Last Completed Day:** **Day 23 Completed** (Pandas Series & DataFrames, inspecting tabular datasets, `.head()`, `.info()`, `loc` vs `iloc`, Boolean indexing & filtering + Chinese Lesson 6: Yes/No questions with 吗).
+- **Next Up:** **Day 24 (Cleaning data: missing values with .isna()/.dropna()/.fillna(), duplicates with .duplicated()/.drop_duplicates(), type casting with .astype())**.
 
 ---
 

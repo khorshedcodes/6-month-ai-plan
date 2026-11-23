@@ -5,14 +5,14 @@
 - **Weekly Schedule Rule:** **6 Active Study Days + Friday OFF** (University & Shift Recovery Day)
 - **Current Phase:** Month 2 — Data Manipulation & Math for Machine Learning
 - **Current Week:** Week 4 (Data Manipulation with NumPy & Pandas)
-- **Current Day:** Day 23 (Pandas Series & DataFrames, reading CSVs, head, info, loc vs iloc)
-- **Days Completed:** 22 / 168
+- **Current Day:** Day 24 (Cleaning data: missing values, duplicates, type conversions)
+- **Days Completed:** 23 / 168
 
 ---
 
 ## Week 4 Progress Checklist
 - [x] **Day 22:** NumPy arrays, shapes, dtype, indexing, broadcasting, vectorization
-- [ ] **Day 23:** Pandas Series & DataFrame, reading CSVs, `.head()`, `.info()`, `loc` vs `iloc`
+- [x] **Day 23:** Pandas Series & DataFrame, reading CSVs, `.head()`, `.info()`, `loc` vs `iloc`
 - [ ] **Day 24:** Cleaning data: missing values, duplicates, type conversions
 - [ ] **Day 25:** Filtering, sorting, `groupby`, aggregations (`.agg()`), merging
 - [ ] **Day 26:** Matplotlib & basic visualization (histograms, scatter, bar)
